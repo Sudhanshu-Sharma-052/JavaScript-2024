@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: palevioletred;
+}
+
+.slateblue {
+    background-color: slateblue;
+}
+
+.steelblue {
+    background-color: steelblue;
+}
+
+.flash {
+    background-color: whitesmoke;
+}
+
+.userFlash {
+    background-color: chartreuse;
+}
